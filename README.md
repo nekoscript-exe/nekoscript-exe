@@ -4,6 +4,9 @@
 
 # Hi there, I'm Ian Azael!
 
+<img src="assets/branding/typing.svg" width="90%" alt="Building intelligent systems and exploring technology">
+
+
 **Data & AI Engineering Student | Developer | Technology Enthusiast**
 
 ![Linux](https://img.shields.io/badge/Linux-10101e?style=for-the-badge&logo=linux&logoColor=69edc5)
