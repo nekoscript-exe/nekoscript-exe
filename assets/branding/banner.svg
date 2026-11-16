@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 340">
+  <title>nekoscript.exe — Data Engineering and AI</title>
+
+  <defs>
+    <linearGradient id="bg">
+      <stop stop-color="#10101e"/>
+      <stop offset="1" stop-color="#122a34"/>
+    </linearGradient>
+
+    <linearGradient id="glow">
+      <stop stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#69edc5"/>
+    </linearGradient>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0 H0 V40" fill="none"
+        stroke="#a78bfa" stroke-width=".8" opacity=".12"/>
+    </pattern>
+  </defs>
+
+  <rect width="960" height="340" rx="18" fill="url(#bg)"/>
+  <rect width="960" height="340" rx="18" fill="url(#grid)"/>
+
+  <g stroke="url(#glow)" stroke-width="1.5" fill="none" opacity=".65">
+    <path d="M0 40 H120 L160 80 H245
+             M960 40 H840 L800 80 H715
+             M0 300 H120 L160 260 H245
+             M960 300 H840 L800 260 H715"/>
+    <circle cx="245" cy="80" r="4"/>
+    <circle cx="715" cy="80" r="4"/>
+    <circle cx="245" cy="260" r="4"/>
+    <circle cx="715" cy="260" r="4"/>
+  </g>
+
+  <g transform="translate(430 28) scale(1.3)"
+     stroke="url(#glow)" stroke-width="2"
+     fill="#171e2e" stroke-linejoin="round">
+
+    <path d="M8 40 L8 5 L29 22
+             Q38 18 47 22 L68 5 L68 40
+             Q75 59 58 70 Q38 81 18 70 Q1 59 8 40Z"/>
+
+    <path d="M20 46 L28 50 L20 54
+             M56 46 L48 50 L56 54
+             M32 62 L38 66 L44 62" fill="none"/>
+  </g>
+
+  <g text-anchor="middle" font-family="monospace">
+    <text x="480" y="186" font-size="56"
+          font-weight="bold" fill="#e6edf3">nekoscript.exe</text>
+
+    <text x="480" y="224" font-size="19"
+          letter-spacing="3" fill="#a78bfa">DATA ENGINEERING &amp; AI</text>
+
+    <rect x="350" y="243" width="260" height="2" fill="url(#glow)"/>
+
+    <text x="480" y="275" font-size="18" fill="#69edc5">
+      Curiosity into code. Data into intelligence.
+    </text>
+
+    <circle cx="405" cy="310" r="4" fill="#69edc5">
+      <animate attributeName="opacity" values="1;.25;1"
+               dur="2s" repeatCount="indefinite"/>
+    </circle>
+
+    <text x="490" y="314" font-size="12" fill="#94a3b8">
+      SYSTEM ONLINE
+    </text>
+  </g>
+
+  <g font-family="monospace" font-size="10" fill="#94a3b8">
+    <text x="22" y="23">NEKO_OS // 01</text>
+    <text x="938" y="324" text-anchor="end">EST. 2026</text>
+  </g>
+</svg>
