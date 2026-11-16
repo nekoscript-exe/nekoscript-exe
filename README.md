@@ -75,6 +75,20 @@ and turning ambitious ideas into functional projects.
 
 ---
 
+## Contribution snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nekoscript-exe/nekoscript-exe/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nekoscript-exe/nekoscript-exe/output/snake.svg">
+  <img width="100%" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/nekoscript-exe/nekoscript-exe/output/snake.svg">
+</picture>
+
+</div>
+
+---
+
 <div align="center">
 
 <img src="assets/branding/footer.svg" width="100%" alt="Always learning. Always building.">
