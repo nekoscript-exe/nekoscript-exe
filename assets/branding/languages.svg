@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+viewBox="0 0 960 320">
+<title>Nekoscript language distribution</title>
+
+<rect width="960" height="320" rx="16" fill="#141624"/>
+
+<g font-family="monospace">
+<text x="30" y="40" font-size="22"
+font-weight="bold" fill="#a78bfa">NEKOSCRIPT // LANGUAGES</text>
+
+<text x="30" y="68" font-size="12"
+fill="#94a3b8">PUBLIC REPOSITORIES // SOURCE CODE</text>
+
+<rect x="30.000" y="85" width="443.191"
+height="18" fill="#69edc5"/>
+
+<circle cx="37" cy="135" r="6" fill="#69edc5"/>
+<text x="55" y="140" font-size="16"
+fill="#e6edf3">PHP</text>
+<text x="450" y="140" text-anchor="end"
+font-size="16" fill="#94a3b8">49.2%</text>
+
+<rect x="473.191" y="85" width="181.580"
+height="18" fill="#a78bfa"/>
+
+<circle cx="497" cy="135" r="6" fill="#a78bfa"/>
+<text x="515" y="140" font-size="16"
+fill="#e6edf3">CSS</text>
+<text x="910" y="140" text-anchor="end"
+font-size="16" fill="#94a3b8">20.2%</text>
+
+<rect x="654.771" y="85" width="181.288"
+height="18" fill="#e0af68"/>
+
+<circle cx="37" cy="170" r="6" fill="#e0af68"/>
+<text x="55" y="175" font-size="16"
+fill="#e6edf3">Python</text>
+<text x="450" y="175" text-anchor="end"
+font-size="16" fill="#94a3b8">20.1%</text>
+
+<rect x="836.059" y="85" width="68.077"
+height="18" fill="#60a5fa"/>
+
+<circle cx="497" cy="170" r="6" fill="#60a5fa"/>
+<text x="515" y="175" font-size="16"
+fill="#e6edf3">JavaScript</text>
+<text x="910" y="175" text-anchor="end"
+font-size="16" fill="#94a3b8">7.6%</text>
+
+<rect x="904.136" y="85" width="9.862"
+height="18" fill="#f0abfc"/>
+
+<circle cx="37" cy="205" r="6" fill="#f0abfc"/>
+<text x="55" y="210" font-size="16"
+fill="#e6edf3">Shell</text>
+<text x="450" y="210" text-anchor="end"
+font-size="16" fill="#94a3b8">1.1%</text>
+
+<rect x="913.998" y="85" width="9.108"
+height="18" fill="#94a3b8"/>
+
+<circle cx="497" cy="205" r="6" fill="#94a3b8"/>
+<text x="515" y="210" font-size="16"
+fill="#e6edf3">HTML</text>
+<text x="910" y="210" text-anchor="end"
+font-size="16" fill="#94a3b8">1.0%</text>
+
+<rect x="923.106" y="85" width="3.722"
+height="18" fill="#f7768e"/>
+
+<circle cx="37" cy="240" r="6" fill="#f7768e"/>
+<text x="55" y="245" font-size="16"
+fill="#e6edf3">Dockerfile</text>
+<text x="450" y="245" text-anchor="end"
+font-size="16" fill="#94a3b8">0.4%</text>
+
+<rect x="926.828" y="85" width="3.172"
+height="18" fill="#7dcfff"/>
+
+<circle cx="497" cy="240" r="6" fill="#7dcfff"/>
+<text x="515" y="245" font-size="16"
+fill="#e6edf3">Others</text>
+<text x="910" y="245" text-anchor="end"
+font-size="16" fill="#94a3b8">0.4%</text>
+
+<path d="M30 275 H930" stroke="#293449"/>
+<text x="480" y="300" text-anchor="middle"
+font-size="12" fill="#94a3b8">POWERED BY PYTHON &amp; GITHUB API</text>
+</g>
+</svg>

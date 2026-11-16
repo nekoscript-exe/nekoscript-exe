@@ -66,6 +66,8 @@ and turning ambitious ideas into functional projects.
 
 <img src="assets/branding/metrics.svg" width="100%" alt="Nekoscript developer metrics">
 
+<img src="assets/branding/languages.svg" width="100%" alt="Programming language distribution">
+
 </div>
 
 ## Contribution snake

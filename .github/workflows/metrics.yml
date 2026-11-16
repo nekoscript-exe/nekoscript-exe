@@ -28,14 +28,14 @@ jobs:
 
       - name: Validate SVG
         run: |
-          python3 -c "import xml.etree.ElementTree as ET; ET.parse('assets/branding/metrics.svg')"
+          python3 -c "import xml.etree.ElementTree as ET; ET.parse('assets/branding/metrics.svg'); ET.parse('assets/branding/languages.svg')"
 
       - name: Commit updated metrics
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add assets/branding/metrics.svg
+          git add assets/branding/metrics.svg assets/branding/languages.svg
 
           if git diff --cached --quiet; then
             echo "No changes detected."
