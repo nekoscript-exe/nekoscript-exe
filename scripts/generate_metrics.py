@@ -88,7 +88,7 @@ fill="#94a3b8" font-size="12">UPDATED: {updated}</text>
 
 output = Path("assets/branding/metrics.svg")
 output.parent.mkdir(parents=True, exist_ok=True)
-output.write_text(svg, encoding="utf-8")
+output.write_text("\n".join(line.rstrip() for line in svg.splitlines()) + "\n", encoding="utf-8")
 
 for label, value in metrics:
     print(f"{label}: {value}")
