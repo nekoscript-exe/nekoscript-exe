@@ -4,54 +4,23 @@
 
 # Hi there, I'm Ian Azael!
 
+<img src="assets/branding/typing.svg" width="90%" alt="Building intelligent systems and exploring technology">
+
+
 **Data & AI Engineering Student | Developer | Technology Enthusiast**
 
 ![Linux](https://img.shields.io/badge/Linux-10101e?style=for-the-badge&logo=linux&logoColor=69edc5)
 ![Python](https://img.shields.io/badge/Python-10101e?style=for-the-badge&logo=python&logoColor=69edc5)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-10101e?style=for-the-badge&logo=pytorch&logoColor=a78bfa)
 
+
+[![Website](https://img.shields.io/badge/WEBSITE-141624?style=for-the-badge&logo=googlechrome&logoColor=69edc5)](https://ateneaanalyticsai.com)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-141624?style=for-the-badge&logo=instagram&logoColor=a78bfa)](https://www.instagram.com/nekoscript.exe/)
+[![Email](https://img.shields.io/badge/EMAIL-141624?style=for-the-badge&logo=gmail&logoColor=60a5fa)](mailto:azaelnwn22@gmail.com)
+
 </div>
 
 ---
-
-## About me
-
-I'm a Data and Artificial Intelligence Engineering student at the
-Universidad Politécnica de Querétaro, Mexico.
-
-I'm passionate about technology, software development, data engineering,
-machine learning and building solutions to real-world problems.
-
-I enjoy exploring new technologies, experimenting with Linux,
-and turning ambitious ideas into functional projects.
-
-<div align="center">
-
-<img src="assets/branding/terminal.svg" width="100%" alt="Nekoscript system information">
-
-</div>
-
-## Technology stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,fastapi,pytorch,opencv,mysql,postgres,sqlite,docker,nginx,linux,ubuntu,bash,git,github,vscode&theme=dark&perline=10" alt="Technology stack">
-
-</div>
-
-## Exploring the future
-
-```yaml
-interests:
-  - Artificial Intelligence
-  - Data Engineering
-  - Scientific Computing
-  - Software Architecture
-  - Linux and Infrastructure
-  - Data Visualization
-
-mindset: Never stop exploring.
-```
 
 ## Featured projects
 
@@ -70,7 +39,62 @@ mindset: Never stop exploring.
 
 </div>
 
+---
 
+## About me
+
+I'm a Data and Artificial Intelligence Engineering student at
+Universidad Politécnica de Querétaro, Mexico.
+
+I build software, explore intelligent systems and transform data
+into meaningful solutions.
+
+<div align="center">
+
+<img src="assets/branding/terminal.svg" width="100%" alt="Nekoscript system information">
+
+</div>
+
+## Technology stack
+
+<div align="center">
+
+<h4>Languages</h4>
+
+<img src="https://skillicons.dev/icons?i=python,php,js,ts,bash&theme=dark" alt="Languages">
+
+<h4>Data &amp; Artificial Intelligence</h4>
+
+<img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" alt="Data &amp; Artificial Intelligence">
+
+<img src="https://img.shields.io/badge/Pandas-141624?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/NumPy-141624?style=for-the-badge&logo=numpy&logoColor=69edc5" alt="NumPy">
+
+<h4>Frontend &amp; Backend</h4>
+
+<img src="https://skillicons.dev/icons?i=react,html,css,fastapi&theme=dark" alt="Frontend &amp; Backend">
+
+<h4>Database Systems</h4>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" alt="Database Systems">
+
+<h4>DevOps &amp; Infrastructure</h4>
+
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,ubuntu,git,github,vscode&theme=dark" alt="DevOps &amp; Infrastructure">
+
+</div>
+
+## Exploring the future
+
+<div align="center">
+
+`Artificial Intelligence` · `Data Engineering` · `Scientific Computing`
+
+`Software Architecture` · `Linux & Infrastructure` · `Data Visualization`
+
+*Never stop exploring.*
+
+</div>
 
 ## Developer activity
 
