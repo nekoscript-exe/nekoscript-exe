@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 340">
+<title>nekoscript.exe system information</title>
+
+<rect width="960" height="340" rx="14" fill="#10101e"/>
+<rect width="960" height="36" rx="12" fill="#202337"/>
+
+<circle cx="24" cy="18" r="5" fill="#f7768e"/>
+<circle cx="42" cy="18" r="5" fill="#e0af68"/>
+<circle cx="60" cy="18" r="5" fill="#69edc5"/>
+
+<g font-family="monospace">
+<text x="480" y="23" text-anchor="middle" fill="#94a3b8"
+font-size="13">nekoscript@lifelya: ~</text>
+
+<text x="25" y="70" fill="#69edc5"
+font-size="17">nekoscript@lifelya:~$ whoami</text>
+
+<g transform="translate(80 105) scale(2.6)"
+fill="none" stroke="#a78bfa" stroke-width="2"
+stroke-linejoin="round">
+<path d="M8 40 L8 5 L29 22 Q38 18 47 22 L68 5 L68 40
+Q75 59 58 70 Q38 81 18 70 Q1 59 8 40Z"/>
+<path d="M20 46 L28 50 L20 54 M56 46 L48 50 L56 54
+M32 62 L38 66 L44 62"/>
+</g>
+
+<text x="345" y="105" font-size="21"
+font-weight="bold" fill="#a78bfa">nekoscript.exe</text>
+
+<path d="M345 120 H820" stroke="#293449"/>
+
+<text x="345" y="146" font-size="15"
+fill="#69edc5">OS:</text>
+<text x="480" y="146" font-size="15"
+fill="#e6edf3">Ubuntu / Windows</text>
+<text x="345" y="168" font-size="15"
+fill="#69edc5">Role:</text>
+<text x="480" y="168" font-size="15"
+fill="#e6edf3">Data and AI Engineering Student</text>
+<text x="345" y="190" font-size="15"
+fill="#69edc5">University:</text>
+<text x="480" y="190" font-size="15"
+fill="#e6edf3">UPQ</text>
+<text x="345" y="212" font-size="15"
+fill="#69edc5">Location:</text>
+<text x="480" y="212" font-size="15"
+fill="#e6edf3">Mexico</text>
+<text x="345" y="234" font-size="15"
+fill="#69edc5">Editor:</text>
+<text x="480" y="234" font-size="15"
+fill="#e6edf3">Visual Studio Code</text>
+<text x="345" y="256" font-size="15"
+fill="#69edc5">Focus:</text>
+<text x="480" y="256" font-size="15"
+fill="#e6edf3">Data Engineering, AI and Software</text>
+<text x="345" y="278" font-size="15"
+fill="#69edc5">Status:</text>
+<text x="480" y="278" font-size="15"
+fill="#e6edf3">Always learning</text>
+
+<text x="25" y="316" font-size="16"
+fill="#69edc5">nekoscript@lifelya:~$</text>
+
+<rect x="238" y="303" width="9" height="16" fill="#69edc5">
+<animate attributeName="opacity" values="1;0;1"
+dur="1.2s" repeatCount="indefinite"/>
+</rect>
+
+</g>
+</svg>

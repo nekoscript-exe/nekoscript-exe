@@ -25,6 +25,12 @@ machine learning and building solutions to real-world problems.
 I enjoy exploring new technologies, experimenting with Linux,
 and turning ambitious ideas into functional projects.
 
+<div align="center">
+
+<img src="assets/branding/terminal.svg" width="100%" alt="Nekoscript system information">
+
+</div>
+
 ## Technology stack
 
 <div align="center">
