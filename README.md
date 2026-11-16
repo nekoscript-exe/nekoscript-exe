@@ -39,6 +39,20 @@ and turning ambitious ideas into functional projects.
 
 </div>
 
+## Exploring the future
+
+```yaml
+interests:
+  - Artificial Intelligence
+  - Data Engineering
+  - Scientific Computing
+  - Software Architecture
+  - Linux and Infrastructure
+  - Data Visualization
+
+mindset: Never stop exploring.
+```
+
 ## Featured projects
 
 <div align="center">
@@ -49,9 +63,7 @@ and turning ambitious ideas into functional projects.
 <a href="https://github.com/nekoscript-exe/ritmo">
 <img width="48%" src="assets/projects/ritmo.svg" alt="RITMO">
 </a>
-<a href="https://github.com/nekoscript-exe/Catch-Consulting-2026">
-<img width="48%" src="assets/projects/catch.svg" alt="Catch Consulting">
-</a>
+<img width="48%" src="assets/projects/catch.svg" alt="Catch Consulting — Private project">
 <a href="https://github.com/nekoscript-exe/ATENEA">
 <img width="48%" src="assets/projects/atenea.svg" alt="ATENEA">
 </a>
