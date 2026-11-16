@@ -91,6 +91,12 @@ and turning ambitious ideas into functional projects.
 
 <div align="center">
 
+<img src="assets/branding/neko.svg" width="65%" alt="Neko.exe virtual companion">
+
+</div>
+
+<div align="center">
+
 <img src="assets/branding/footer.svg" width="100%" alt="Always learning. Always building.">
 
 </div>
