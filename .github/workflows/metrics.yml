@@ -1,0 +1,45 @@
+name: Update developer metrics
+
+on:
+  schedule:
+    - cron: "30 8 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: developer-metrics
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate metrics
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/generate_metrics.py
+
+      - name: Validate SVG
+        run: |
+          python3 -c "import xml.etree.ElementTree as ET; ET.parse('assets/branding/metrics.svg')"
+
+      - name: Commit updated metrics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/branding/metrics.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes detected."
+          else
+            git commit -m "chore: update developer metrics"
+            git push
+          fi

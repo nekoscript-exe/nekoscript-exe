@@ -64,16 +64,9 @@ and turning ambitious ideas into functional projects.
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=nekoscript-exe&show_icons=true&hide_border=true&bg_color=141624&title_color=a78bfa&text_color=e6edf3&icon_color=69edc5" alt="GitHub statistics">
-
-<img width="48%" src="https://streak-stats.demolab.com?user=nekoscript-exe&hide_border=true&background=141624&ring=69edc5&fire=a78bfa&currStreakLabel=69edc5&sideLabels=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&dates=94a3b8" alt="Contribution streak">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=nekoscript-exe&bg_color=141624&color=a78bfa&line=69edc5&point=e6edf3&area=true&hide_border=true" alt="Contribution activity graph">
+<img src="assets/branding/metrics.svg" width="100%" alt="Nekoscript developer metrics">
 
 </div>
-
-
----
 
 ## Contribution snake
 

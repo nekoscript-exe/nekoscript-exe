@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 310">
+<title>Nekoscript developer metrics</title>
+<rect width="960" height="310" rx="16" fill="#141624"/>
+
+<g font-family="monospace">
+<text x="30" y="40" fill="#a78bfa" font-size="22"
+font-weight="bold">NEKOSCRIPT // METRICS</text>
+
+<text x="930" y="40" text-anchor="end"
+fill="#69edc5" font-size="12">SYSTEM ONLINE</text>
+
+    <rect x="30" y="65" width="440" height="85"
+    rx="10" fill="#1a1e30" stroke="#293449"/>
+
+    <text x="50" y="102" fill="#69edc5"
+    font-size="28" font-weight="bold">8</text>
+
+    <text x="50" y="128" fill="#e6edf3"
+    font-size="14">Public repositories</text>
+    
+    <rect x="490" y="65" width="440" height="85"
+    rx="10" fill="#1a1e30" stroke="#293449"/>
+
+    <text x="510" y="102" fill="#69edc5"
+    font-size="28" font-weight="bold">1</text>
+
+    <text x="510" y="128" fill="#e6edf3"
+    font-size="14">Stars earned</text>
+    
+    <rect x="30" y="165" width="440" height="85"
+    rx="10" fill="#1a1e30" stroke="#293449"/>
+
+    <text x="50" y="202" fill="#69edc5"
+    font-size="28" font-weight="bold">1</text>
+
+    <text x="50" y="228" fill="#e6edf3"
+    font-size="14">Followers</text>
+    
+    <rect x="490" y="165" width="440" height="85"
+    rx="10" fill="#1a1e30" stroke="#293449"/>
+
+    <text x="510" y="202" fill="#69edc5"
+    font-size="28" font-weight="bold">0</text>
+
+    <text x="510" y="228" fill="#e6edf3"
+    font-size="14">Repository forks</text>
+    
+<text x="30" y="286" fill="#94a3b8" font-size="12">
+SOURCE: GITHUB API
+</text>
+<text x="930" y="286" text-anchor="end"
+fill="#94a3b8" font-size="12">UPDATED: 2026-11-16 09:04 UTC</text>
+</g>
+</svg>
