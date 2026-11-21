@@ -11,43 +11,43 @@ font-weight="bold" fill="#a78bfa">NEKOSCRIPT // LANGUAGES</text>
 <text x="30" y="68" font-size="12"
 fill="#94a3b8">PUBLIC REPOSITORIES // SOURCE CODE</text>
 
-<rect x="30.000" y="85" width="576.065"
+<rect x="30.000" y="85" width="579.246"
 height="18" fill="#69edc5"/>
 
 <circle cx="37" cy="135" r="6" fill="#69edc5"/>
 <text x="55" y="140" font-size="16"
 fill="#e6edf3">Python</text>
 <text x="450" y="140" text-anchor="end"
-font-size="16" fill="#94a3b8">64.0%</text>
+font-size="16" fill="#94a3b8">64.4%</text>
 
-<rect x="606.065" y="85" width="197.178"
+<rect x="609.246" y="85" width="195.242"
 height="18" fill="#a78bfa"/>
 
 <circle cx="497" cy="135" r="6" fill="#a78bfa"/>
 <text x="515" y="140" font-size="16"
 fill="#e6edf3">PHP</text>
 <text x="910" y="140" text-anchor="end"
-font-size="16" fill="#94a3b8">21.9%</text>
+font-size="16" fill="#94a3b8">21.7%</text>
 
-<rect x="803.243" y="85" width="80.786"
+<rect x="804.488" y="85" width="79.993"
 height="18" fill="#e0af68"/>
 
 <circle cx="37" cy="170" r="6" fill="#e0af68"/>
 <text x="55" y="175" font-size="16"
 fill="#e6edf3">CSS</text>
 <text x="450" y="175" text-anchor="end"
-font-size="16" fill="#94a3b8">9.0%</text>
+font-size="16" fill="#94a3b8">8.9%</text>
 
-<rect x="884.029" y="85" width="30.288"
+<rect x="884.480" y="85" width="29.991"
 height="18" fill="#60a5fa"/>
 
 <circle cx="497" cy="170" r="6" fill="#60a5fa"/>
 <text x="515" y="175" font-size="16"
 fill="#e6edf3">JavaScript</text>
 <text x="910" y="175" text-anchor="end"
-font-size="16" fill="#94a3b8">3.4%</text>
+font-size="16" fill="#94a3b8">3.3%</text>
 
-<rect x="914.317" y="85" width="7.768"
+<rect x="914.471" y="85" width="7.691"
 height="18" fill="#f0abfc"/>
 
 <circle cx="37" cy="205" r="6" fill="#f0abfc"/>
@@ -56,16 +56,16 @@ fill="#e6edf3">Shell</text>
 <text x="450" y="210" text-anchor="end"
 font-size="16" fill="#94a3b8">0.9%</text>
 
-<rect x="922.085" y="85" width="4.052"
+<rect x="922.162" y="85" width="4.012"
 height="18" fill="#94a3b8"/>
 
 <circle cx="497" cy="205" r="6" fill="#94a3b8"/>
 <text x="515" y="210" font-size="16"
 fill="#e6edf3">HTML</text>
 <text x="910" y="210" text-anchor="end"
-font-size="16" fill="#94a3b8">0.5%</text>
+font-size="16" fill="#94a3b8">0.4%</text>
 
-<rect x="926.137" y="85" width="1.656"
+<rect x="926.174" y="85" width="1.640"
 height="18" fill="#f7768e"/>
 
 <circle cx="37" cy="240" r="6" fill="#f7768e"/>
@@ -74,7 +74,7 @@ fill="#e6edf3">Dockerfile</text>
 <text x="450" y="245" text-anchor="end"
 font-size="16" fill="#94a3b8">0.2%</text>
 
-<rect x="927.792" y="85" width="2.208"
+<rect x="927.814" y="85" width="2.186"
 height="18" fill="#7dcfff"/>
 
 <circle cx="497" cy="240" r="6" fill="#7dcfff"/>
